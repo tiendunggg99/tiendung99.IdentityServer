@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tiendung99.Identity.WebApp"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tiendung99.IdentityServer.API", "tiendung99.IdentityServer.API\tiendung99.IdentityServer.API.csproj", "{88012E5B-F284-4ED3-9A71-C34096C23140}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tiendung99.IdentityServer.MVC", "tiendung99.IdentityServer.MVC\tiendung99.IdentityServer.MVC.csproj", "{43F9323F-4621-4790-BCC7-74E81B443C1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{88012E5B-F284-4ED3-9A71-C34096C23140}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88012E5B-F284-4ED3-9A71-C34096C23140}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88012E5B-F284-4ED3-9A71-C34096C23140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43F9323F-4621-4790-BCC7-74E81B443C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F9323F-4621-4790-BCC7-74E81B443C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F9323F-4621-4790-BCC7-74E81B443C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F9323F-4621-4790-BCC7-74E81B443C1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
